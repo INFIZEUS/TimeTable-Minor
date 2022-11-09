@@ -1,0 +1,43 @@
+Monday 
+
+Module: Compiler Design 
+Room: 11011
+Faculty: Prateek Gupta 
+Subject Code: CD01
+Start Time: 8:00
+End Time: 9:00
+Batch: B2 
+
+Module: Cloud Performance Tuning
+Room: 11011
+Faculty: Vishal Kaushik
+Subject Code: CPT02
+Start Time: 9:00
+End Time: 10:00
+Batch: B2 
+
+Module: Container Orchestration
+Room: 11011
+Faculty: Abhirup khanna 
+Subject Code: COI03
+Start Time: 11:00
+End Time: 12:00
+Batch: B2 
+
+Module: Microprocessor and Embedded Systems
+Room: 11011
+Faculty: Harshit Mohan 
+Subject Code: MPES04
+Start Time: 01:00
+End Time: 2:00
+Batch: B2 
+
+Module: Edge
+Room: 11011
+Faculty: Taruni Gupta 
+Subject Code: CS05
+Start Time: 2:00
+End Time: 3:00
+Batch: B2 
+
+
