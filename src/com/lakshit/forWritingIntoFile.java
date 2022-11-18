@@ -18,7 +18,7 @@ public class forWritingIntoFile {
             // Create a FileWriter object
             // to write in the file
             FileWriter fWriter = new FileWriter(
-                    "D:/Programs/File Handling/newTT.txt");
+                    "D:/Programs/File Handling/DefaultTimeTable.txt");
 
             // Writing into file
             // Note: The content taken above inside the string

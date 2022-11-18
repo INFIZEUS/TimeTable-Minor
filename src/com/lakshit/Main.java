@@ -108,7 +108,8 @@ public class Main {
         } else if(facultyInput() == "reschedule") {
             // Change the start and end timings
             // Replace line with the get timing values
-
+            startTiming();
+            endTiming();
 
 //          File textFile = new File("myfile.txt");
 //        try {
